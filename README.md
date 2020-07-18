@@ -1,4 +1,3 @@
-### Hi 👋 
 
 <h3 align="center">
 	This is Debarshi Mondal
