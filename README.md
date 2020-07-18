@@ -6,7 +6,8 @@
 
 
 <p align="center">
-	<h4>🌟I'm a Self-made Passionate Web Developer, working for Clients. Some Technologies I have worked and learned so far <br> includes Laravel, PHP, Bootstrap, AWS, 		Mysql(DB), Sql. 🌟</h4>
+	<h4>🌟I'm a Self-made Passionate Web Developer, working for Clients. Some Technologies I have worked and learned so far 
+	<br><br> includes Laravel, PHP, Bootstrap, AWS, Mysql(DB), Sql. 🌟</h4>
 </p>
 
 <p align="center">
