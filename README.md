@@ -1,8 +1,8 @@
 ### Hi 👋 
 
-<h3 align="center">
-	This is Debarshi Mondal
-</h3>
+<h4 align="center">
+	<b>This is Debarshi Mondal</b>
+</h4>
 <p align="center">
 	<h5 align="center">🌟🌟 I'm a Self-made Passionate Web Developer, working for Clients. Some Technologies I have worked and learned so far
 	 includes Laravel, PHP, Bootstrap, AWS, Mysql(DB), Sql. 🌟🌟 </h5>
