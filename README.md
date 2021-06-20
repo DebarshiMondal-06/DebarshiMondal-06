@@ -3,8 +3,10 @@
 	🎧 This is Piku 🍔🏕️
 </h3>
 <p align="center">
-	<h5 align="center">🌟🌟 I'm a Self-made Passionate Web Developer, working for Clients. Some Technologies I have worked and learned so far
-	 includes Laravel, PHP, Bootstrap, AWS, Mysql(DB), Sql, Html5, Css3 and Jquery. 🌟🌟 </h5>
+	<h5 align="center">🌟🌟 Loved to build Serverless Scaleable Web
+applications on Cloud. So, far I learned and worked on how to Build Serverless Scaleable, MERN/full-stack
+web apps, and APIs.
+ 🌟🌟 </h5>
 </p>
 	<p align="center"><h6 align="center">😀More about me! Check out here 👇</h6>
 </p>
