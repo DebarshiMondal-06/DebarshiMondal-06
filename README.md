@@ -7,8 +7,13 @@
 applications on Cloud. So, far I learned and worked on how to Build Serverless Scaleable, MERN/full-stack
 web apps, and APIs.
  🌟🌟 </h5>
+ 
+ #### Certifications:
+- AWS Certified Developer Associate
+- Microsoft Azure Fundamentals
+ 
 </p>
-	<p align="center"><h6 align="center">😀More about me! Check out here 👇</h6>
+   <p align="center"><h6 align="center">😀More about me! Check out here 👇</h6>
 </p>
 <p align="center">
 	<a width='50px' href="https://blog.debarshimondal.online/"><img src="https://img.shields.io/badge/-Blog-informational" alt="My-Blog"></a> &nbsp;
