@@ -9,7 +9,7 @@
  
  #### Certifications:
 - AWS Certified Developer Associate
-- Microsoft Azure Fundamentals
+- Microsoft Certified Azure Fundamentals
  
 </p>
    <p align="center"><h6 align="center">😀More about me! Check out here 👇</h6>
