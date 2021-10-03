@@ -3,7 +3,7 @@
 	🎧 I am Piku 🍔🏕️
 </h2>
 <p align="center">
-	<h5 align="center">🌟🌟 Loved to build Serverless Scaleable Web
+	<h5>🌟🌟 Loved to build Serverless Scaleable Web
 applications on Cloud. So, far I learned and worked on how to Build Serverless Scaleable, MERN/full-stack
 web apps, and APIs.
  🌟🌟 </h5>
