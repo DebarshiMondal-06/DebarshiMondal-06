@@ -2,11 +2,11 @@
 <h2 align="center">
 	🎧 I am Piku 🍔🏕️
 </h2>
-<p align="center">
+<div align="center">
 	<h5>🌟🌟 Loved to build Serverless Scaleable Web
 applications on Cloud. So, far I learned and worked on how to Build Serverless Scaleable, MERN/full-stack
 web apps, and APIs.
- 🌟🌟 </h5>
+ 🌟🌟 </div>
  
  #### Certifications:
 - AWS Certified Developer Associate
