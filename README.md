@@ -7,7 +7,8 @@
 	MERN/full-stack web apps, and APIs.
  🌟🌟 </div>
  
- #### Certifications:
+ #### Certifications & Achievements:
+- AWS Community Builder
 - AWS Certified Developer Associate
 - Microsoft Certified Azure Fundamentals
  
