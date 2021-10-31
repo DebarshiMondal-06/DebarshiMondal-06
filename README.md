@@ -7,6 +7,9 @@
 	MERN/full-stack web apps, and APIs.
  🌟🌟 </div>
  
+ #### Technology I loved to Work:
+ - Full Stack Website Dev. | Serverless | Automation | GraphQL & AppSync | AWS | GitHub | Android Dev. (Native) 
+ 
  #### 🏆 Certifications & Achievements: 🏆
 - AWS Community Builder
 - AWS Certified Developer Associate
