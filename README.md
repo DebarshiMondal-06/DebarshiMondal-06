@@ -13,7 +13,7 @@
 - Microsoft Certified Azure Fundamentals
  
 </p>
-   <p align="center"><h5 align="center">😀More about me! Check out here 👇</h5>
+   <p align="center"><h5 align="center">😀 More about me! Check out here 👇</h5>
 </p>
 <p align="center">
 	<a width='50px' href="https://blog.debarshimondal.online/"><img src="https://img.shields.io/badge/-Blog-informational" alt="My-Blog"></a> &nbsp;
