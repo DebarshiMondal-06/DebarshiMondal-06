@@ -14,6 +14,7 @@
 - AWS Community Builder
 - AWS Certified Developer Associate
 - Microsoft Certified Azure Fundamentals
+- OCI Foundations 2021 Certified Associate
  
 </p>
    <p align="center"><h5 align="center">😀 More about me! Check out here 👇</h5>
