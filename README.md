@@ -8,7 +8,7 @@
  🌟🌟 </div>
  
  #### Things I loved to Work:
- - Full Stack Website Dev. | Serverless | SLS | Automation | IAC(Infra as Code) | GraphQL & AppSync | AWS | GitHub | Blog Writing | Android Dev. (Native) | Laravel
+ - Full Stack Website Dev. | Serverless | SLS | Automation | IAC(Infra as Code) | GraphQL & AppSync | AWS | GitHub | Tech Content Writer | Android Dev. (Native) | Laravel
  
  #### 🏆 Certifications & Achievements: 🏆
 - AWS Community Builder
