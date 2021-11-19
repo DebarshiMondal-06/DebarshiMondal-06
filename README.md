@@ -32,6 +32,6 @@
 </p>
 
 <!-- <center> -->
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact)
 <!-- </center> -->
 
