@@ -31,5 +31,5 @@
 	<a width='50px' href="https://debarshimondal.online/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DE)](https://github.com/LENO-DEV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV)](https://github.com/LENO-DEV/github-readme-stats)
 
