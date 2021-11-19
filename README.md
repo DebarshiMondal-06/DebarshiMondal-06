@@ -15,10 +15,10 @@
 - AWS Certified Developer Associate
 - Microsoft Certified Azure Fundamentals
 - OCI Foundations 2021 Certified Associate
- 
-</p>
-   <p align="center"><h5 align="center">😀 More about me! Check out here 👇</h5>
-</p>
+
+
+<p align="center"><h5 align="center">😀 More about me! Check out here 👇</h5></p>
+
 <p align="center">
 	<a width='50px' href="https://blog.debarshimondal.online/"><img src="https://img.shields.io/badge/-Blog-informational" alt="My-Blog"></a> &nbsp;
 	<a href="https://github.com/LENO-DEV/"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=github" alt="GitHub"></a> &nbsp;
@@ -29,6 +29,10 @@
 		<img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="Twitter">
 	</a> &nbsp;
 	<a width='50px' href="https://debarshimondal.online/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact)
 </p>
+<br />
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact&langs_count=8&show_icons=true&theme=radical" alt="lang" />
+</p>
+
 
