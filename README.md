@@ -29,9 +29,6 @@
 		<img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="Twitter">
 	</a> &nbsp;
 	<a width='50px' href="https://debarshimondal.online/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
-</p>
-
-<center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact)
-</center>
+</p>
 
