@@ -28,7 +28,7 @@
 	<a href="https://twitter.com/DebarshiMonda20">
 		<img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="Twitter">
 	</a> &nbsp;
-	<a width='50px' href="https://debarshimondal.online/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
+	<a width='50px' href="https://debarshimondal.tech/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
 </p>
 <br />
 <p align="center">
