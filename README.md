@@ -31,8 +31,5 @@
 	<a width='50px' href="https://debarshimondal.tech/"><img src="https://img.shields.io/badge/-Portfolio-important" alt="My-Site"></a>
 </p>
 <br />
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENO-DEV&hide=php,css,scss,less&layout=compact&langs_count=8&show_icons=true&theme=radical" alt="lang" />
-</p>
 
 
